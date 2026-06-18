@@ -1,0 +1,62 @@
+{
+  "pr/45-googlefan256-main": [
+    {
+      "sha": "5fc3f688be83784fce9a61f15830aa3c3bf60e10",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Add feature 3",
+      "files_changed": 1
+    },
+    {
+      "sha": "ae40ce98d0254e98aac1593a34c003337e7cd64d",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Add feature 2",
+      "files_changed": 1
+    },
+    {
+      "sha": "c2d2b3dc10be21f9627378afecebc9287b568a6c",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Add feature 1",
+      "files_changed": 1
+    }
+  ],
+  "pr/25-neuralsorcerer-patch-1": [
+    {
+      "sha": "fb0f3757f33c9a9ae99d0b55b5caaebc62121bfa",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Apply patch 3",
+      "files_changed": 1
+    },
+    {
+      "sha": "093524b5003eead38b389f01d55a793fe1ba66c6",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Apply patch 2",
+      "files_changed": 1
+    },
+    {
+      "sha": "2a571865d7b53782802b482def50b5f45951e2a2",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Apply patch 1",
+      "files_changed": 1
+    }
+  ],
+  "pr/41-amirhosseinghanipour-fix-race-conditions-and-offline-api": [
+    {
+      "sha": "394016fa589b609ba65dc2d8c5b62fcb7270035b",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Fix offline API",
+      "files_changed": 1
+    },
+    {
+      "sha": "0233196fad66877d192cf90c77adbfd30a518876",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Fix race condition 2",
+      "files_changed": 1
+    },
+    {
+      "sha": "10b3b655c909fdfa7637d605da39f08a7e6ef95d",
+      "author": "zhouyan9xiaohongshu",
+      "message": "Fix race condition 1",
+      "files_changed": 1
+    }
+  ]
+}
